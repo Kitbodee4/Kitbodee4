@@ -68,8 +68,8 @@ goal: Build things that matter
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="http://203.159.93.95:9000/stats" alt="GitHub Stats" />
-  <img width="49%" src="http://203.159.93.95:9000/langs" alt="Top Languages" />
+  <img width="49%" src="https://raw.githubusercontent.com/Kitbodee4/Kitbodee4/main/stats/stats.svg" alt="GitHub Stats" />
+  <img width="49%" src="https://raw.githubusercontent.com/Kitbodee4/Kitbodee4/main/stats/langs.svg" alt="Top Languages" />
 </p>
 
 <p align="center">

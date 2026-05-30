@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="150" viewBox="0 0 495 150">
+  <rect width="495" height="150" rx="10" fill="#1a1b27"/>
+  <text x="20" y="30" fill="#70a5fd" font-family="monospace" font-size="16" font-weight="bold">GitHub Stats</text>
+  <line x1="20" y1="40" x2="475" y2="40" stroke="#2d2f3f" stroke-width="1"/>
+  <text x="25" y="70" fill="#8b949e" font-family="monospace" font-size="13">Repos:</text>
+  <text x="120" y="70" fill="#e6edf3" font-family="monospace" font-size="13" font-weight="bold">36</text>
+  <text x="200" y="70" fill="#8b949e" font-family="monospace" font-size="13">Stars:</text>
+  <text x="280" y="70" fill="#e6edf3" font-family="monospace" font-size="13" font-weight="bold">0</text>
+  <text x="360" y="70" fill="#8b949e" font-family="monospace" font-size="13">Forks:</text>
+  <text x="430" y="70" fill="#e6edf3" font-family="monospace" font-size="13" font-weight="bold">0</text>
+  <text x="25" y="105" fill="#8b949e" font-family="monospace" font-size="13">Followers:</text>
+  <text x="120" y="105" fill="#e6edf3" font-family="monospace" font-size="13" font-weight="bold">41</text>
+  <text x="200" y="105" fill="#8b949e" font-family="monospace" font-size="13">Following:</text>
+  <text x="280" y="105" fill="#e6edf3" font-family="monospace" font-size="13" font-weight="bold">94</text>
+</svg>
