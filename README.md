@@ -88,20 +88,20 @@ goal: Build things that matter
 ## 📌 Pinned Projects
 
 <p align="center">
-  <a href="https://github.com/kitbodee4">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kitbodee4&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/kitbodee4/binance-ta-bot-test">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kitbodee4&repo=binance-ta-bot-test&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/kitbodee4">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kitbodee4&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/kitbodee4/funding1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kitbodee4&repo=funding1&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/kitbodee4">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kitbodee4&repo=REPO_NAME_3&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/kitbodee4/eclipse-tx">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kitbodee4&repo=eclipse-tx&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/kitbodee4">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kitbodee4&repo=REPO_NAME_4&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/kitbodee4/swisstronic-6">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kitbodee4&repo=swisstronic-6&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
